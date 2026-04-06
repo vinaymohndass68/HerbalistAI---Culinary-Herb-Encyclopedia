@@ -1,0 +1,8 @@
+{
+  "name": "HerbalistAI - Culinary & Herb Encyclopedia",
+  "description": "Identify herbs and culinary ingredients via text, image upload, or camera. Get multilingual names, health benefits, recipes, global availability, and local pricing.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
